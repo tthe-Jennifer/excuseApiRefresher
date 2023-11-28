@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/excuseApiRefresher/static/css/main.142273f0.css",
+    "main.js": "/excuseApiRefresher/static/js/main.17cb1e79.js",
+    "static/js/787.081b5376.chunk.js": "/excuseApiRefresher/static/js/787.081b5376.chunk.js",
+    "index.html": "/excuseApiRefresher/index.html",
+    "main.142273f0.css.map": "/excuseApiRefresher/static/css/main.142273f0.css.map",
+    "main.17cb1e79.js.map": "/excuseApiRefresher/static/js/main.17cb1e79.js.map",
+    "787.081b5376.chunk.js.map": "/excuseApiRefresher/static/js/787.081b5376.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.142273f0.css",
+    "static/js/main.17cb1e79.js"
+  ]
+}
